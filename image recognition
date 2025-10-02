@@ -6,3 +6,5 @@ model = YOLO("yolov8n.pt")  # 'n' = nano, fastest and lightest version
 
 
 odel = YOLO("yolov8n.pt")  # 'n' = nano, fastest and lightest version
+# Load pre-trained YOLOv8 model (can also use 'yolov8m.pt' or 'yolov8l.pt')
+model = YOLO("yolov8n.pt")  # 'n' = nano,
