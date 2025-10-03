@@ -6,7 +6,22 @@ from ultralytics import YOLO
         new_node.next = self.head
         self.head = new_node
  # Insert at the beginning
+    def insert_at_beginning(self    self.head = new_node
+ # Insert at the beginning
     def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node, data):
         new_node = Node(data)
         new_node.next = self.head
         self.head = new_node
