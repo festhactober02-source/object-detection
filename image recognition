@@ -15,7 +15,67 @@ from ultralytics import YOLO
  # Insert at the beginning
     def insert_at_beginning(self, data):
         new_node = Node(data)
-        new_node.ne    self.head = new_node
+        new_node.ne    self.head = linkedlist": """class Node:\n    def
+    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node__init__(self, data):\n        self.data=data\n        self.next=None"""
+
+    def correct(self, word): # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+        new_node.next = self.head
+        self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+
+        # If word is correct, return it
+        if word in self.dictionary:
+            return word
+sert at the end
+def insert_at_end(self, data):
+        new_node = Node(data)
+
  # Insert at the beginning
     def insert_at_beginning(self, data):
         new_node = Node(data)
